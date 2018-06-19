@@ -1,0 +1,46 @@
+{
+    "disk_usage": {
+        "total": 42139451392, 
+        "percent": 11.0, 
+        "free": 35340173312, 
+        "used": 4635127808
+    }, 
+    "cpu_time": {
+        "system": 294.24, 
+        "idle": 187086.46, 
+        "user": 729.26, 
+        "nice": 0.0
+    }, 
+    "virtual_memory": {
+        "available": 1678909440, 
+        "used": 1360502784, 
+        "wired": 193568768, 
+        "inactive": 294895616, 
+        "active": 935194624, 
+        "total": 2097369088, 
+        "percent": 20.0, 
+        "free": 736866304
+    }, 
+    "swap_memory": {
+        "used": 0, 
+        "percent": 0.0, 
+        "free": 0, 
+        "sout": 0, 
+        "total": 0, 
+        "sin": 0
+    }, 
+    "cpu_count_logical": 1, 
+    "pids_len": 111, 
+    "cpu_count": 1, 
+    "cpu_percent": [
+        0.0
+    ], 
+    "disk_io_counters": {
+        "write_bytes": 2428530688, 
+        "read_count": 32634, 
+        "write_count": 183785, 
+        "read_time": 267600, 
+        "read_bytes": 644490240, 
+        "write_time": 978236
+    }
+}
